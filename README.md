@@ -6,7 +6,7 @@
         </a> and <a href="https://www.figma.com/file/t3KCexJbYeueaJiAsbyKkk/Untitled?node-id=0%3A1" target="_blank"> <em> Figma </em></a> will be primarily used for prototyping. 
         </p> 
    </li>
-    <li> <h2> Code </h2> 
+    <li> <h2> Code Test</h2> 
         <p> </p> 
    </li>
 </ul>
