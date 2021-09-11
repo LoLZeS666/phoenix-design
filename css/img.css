@@ -6,3 +6,10 @@
 .navbar2{
     opacity: 50%;
 }
+
+body{
+	background-image: url("../Images/background.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+}
