@@ -1,15 +1,25 @@
 .nav-img{
-    height: 50px;
-    width: 50px;
+    height: 75px;
+    width: 75px;
 }
 
+.navbar2{
+
+}
 
 body{
 	background-image: url("../Images/background.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin: 0;
-    color: aqua;
-    background: #009c8e;
+}
 
+.nav-item{
+	padding: 7px;
+	font-size: larger;
+	margin-bottom: 3vh;
+}
+
+.nav-item:hover{
+	border-top: 5px solid white;
 }
