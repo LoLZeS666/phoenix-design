@@ -27,6 +27,5 @@ body{
     width: 120px;
     position: relative;
     top: 65vh;
-    left: 45%;
-	z-index: 2;
+    left: 45vw;
 }
