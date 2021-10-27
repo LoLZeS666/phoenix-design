@@ -1,3 +1,48 @@
+
+#social-links{
+	margin-left: 5px;
+    position: fixed;
+    top: 30vh;
+    height: 160px;
+    width: 30px;
+}
+
+#social-links img{
+    padding: 5px;
+    height: 30px;
+    width: 30px;
+
+}
+
+#link-facebook{
+    background-color: #3b5998;
+}
+#link-facebook:hover{
+    background-color: #2d4373;
+}
+
+#link-linkedin{
+    background-color: #0077b5;
+}
+#link-linkedin:hover{
+    background-color: #00121c;
+}
+
+#link-discord{
+    
+	background-color: #7289DA;
+}
+#link-discord img{
+    height: 28px;
+	width: 28px;
+	padding: 0px;
+}
+#link-discord:hover{
+   
+    background-color: #00121c;
+}
+
+
 .nav-img{
     height: 75px;
     width: 75px;
